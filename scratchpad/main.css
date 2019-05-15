@@ -1,0 +1,51 @@
+h1 {
+  color: pink;
+
+}
+
+img {
+  width: 100%;
+}
+
+p {
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.shadow {
+    box-shadow: 10px 10px 30px 5px #00000055;
+}
+
+.header {
+  margin: 40px;
+  padding: 60px;
+  border: 2px solid black;
+  background-color: purple;
+  text-align: center;
+  box-shadow: 10px 10px 30px 5px #00000055;
+
+}
+
+.subheading {
+
+  margin: 40px 10px 60px 100px;
+  padding 60px;
+  border: 5px solid purple;
+  background-color: lavender;
+  text-align: center;
+  /* background-image: url("../images/project2.png") */
+  background-image: linear-gradient(red, yellow);
+  background-repeat: no-repeat;
+  color: #ffffff;
+
+}
+
+.portfolio-item {
+  margin: 40px;
+  padding: 60px;
+  border: 2px solid black;
+  background-color: grey;
+}
